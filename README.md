@@ -1,2 +1,2 @@
-# obsidian-pic
+# obsidian-test-project
 obsidian test
